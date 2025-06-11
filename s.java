@@ -1,4 +1,5 @@
-package swap;
+
+
 public class s {
       public static void main(String[] args) {
             int n1=10;
